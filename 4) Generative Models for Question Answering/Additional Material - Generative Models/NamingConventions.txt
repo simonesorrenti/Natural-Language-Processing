@@ -1,0 +1,6 @@
+Files in this folder are named according to which model has been trained and which preprocessing has been done. They all aim to train generative models.
+- Model used: gpt2 or distilgp2
+- Task: closed-domain answer generation (c_q_a) open-domain answer generation (q_a)
+- Dataset: SQuAD 1.1 (WithoutUnanswerable), SQuAD 2.0 (WithUnanswerable)
+
+Note: for a full description of the procedure and complete comments, refer to the Generative Model notebook in the main folder.
